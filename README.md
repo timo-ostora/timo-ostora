@@ -49,4 +49,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Mohammed Azizi's github stats](https://github-readme-stats.vercel.app/api?username=mohammedazizi&show_icons=true&theme=dracula)
+![Mohammed Azizi's github stats](https://github-readme-stats.vercel.app/api?username=timo-ostora&show_icons=true&theme=dracula)
