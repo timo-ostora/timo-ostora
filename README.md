@@ -1,52 +1,86 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙝𝙖𝙢𝙢𝙚𝙙 𝘼𝙯𝙞𝙯𝙞
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜’𝗺 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱 𝗔𝘇𝗶𝘇𝗶
 
-[![](https://img.shields.io/badge/-@mohammedazizi-%23181717?style=flat-square&logo=github)](https://github.com/timo-ostora)
+[![](https://img.shields.io/badge/-@timo--ostora-%23181717?style=flat-square&logo=github)](https://github.com/timo-ostora)
 [![](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=vercel)](https://your-portfolio-url.com)
 [![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/your-link)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Rabat%2C%20Morocco&url=https%3A%2F%2Fgithub.com)](https://github.com/timo-ostora)
+[![](https://img.shields.io/badge/-Rabat,%20Morocco-0ab9e6?style=flat-square)](https://github.com/timo-ostora)
 
-𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑹𝒆𝒂𝒍 𝑾𝒆𝒃 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔
+𝗜 𝗯𝘂𝗶𝗹𝗱 𝗰𝗹𝗲𝗮𝗻, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝘄𝗲𝗯 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝘄𝗵𝗲𝗿𝗲 𝗱𝗲𝘀𝗶𝗴𝗻 𝗮𝗻𝗱 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗺𝗲𝗲𝘁.
 
-:computer: 𝑭𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆𝒅 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕, 𝑵𝒆𝒙𝒕.𝒋𝒔, 𝑳𝒂𝒓𝒂𝒗𝒆𝒍 & 𝑨𝑷𝑰-𝒅𝒓𝒊𝒗𝒆𝒏 𝒔𝒚𝒔𝒕𝒆𝒎𝒔.
+💻 **Full-Stack Developer** — React, Next.js, Laravel, APIs  
+🎨 **Web Design & Design Systems** — from brand foundations to pixel-perfect UI  
+🧠 **Product & Systems Thinking**
 
-🧠 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝙩𝙝𝙞𝙣𝙠𝙚𝙧 | 🎨 𝘿𝙚𝙨𝙞𝙜𝙣 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 | ⚙️ 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚
-
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒕𝒖𝒓𝒏𝒊𝒏𝒈 𝒃𝒖𝒔𝒊𝒏𝒆𝒔𝒔 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒔𝒄𝒂𝒍𝒂𝒃𝒍𝒆, 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒂𝒃𝒍𝒆 𝒘𝒆𝒃 𝒔𝒚𝒔𝒕𝒆𝒎𝒔.
+I don’t just implement interfaces.  
+I design **design systems**, translate them into **real components**, and ship **maintainable production code**.
 
 ---
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## 𝗪𝗲𝗯 𝗗𝗲𝘀𝗶𝗴𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+
+My design work goes beyond visuals.
+
+I work across the **entire design-to-development pipeline**:
+
+- Brand foundations (colors, typography, spacing rules)
+- Design systems (tokens, components, layout logic)
+- Developer-ready UI specifications
+- Pixel-perfect implementation in real products
+- UX decisions driven by real user behavior
+
+I design with **constraints in mind** — responsiveness, accessibility, performance, and scalability.
+
+Design is not decoration.  
+It is a **functional contract** between product and code.
+
+---
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻
 
 [![Car Rental Platform](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/car-rental-platform&mode=light&style=horizontal)](https://github.com/timo-ostora)
-[![Portfolio Platform](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/portfolio&mode=dark&style=horizontal)](https://github.com/timo-ostora)
+[![Portfolio & Design System](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/portfolio&mode=dark&style=horizontal)](https://github.com/timo-ostora)
 [![Admin Dashboard](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/admin-dashboard&mode=light&style=horizontal)](https://github.com/timo-ostora)
 
 ---
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+**Frontend**
+  
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+**Backend**
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql)
+
+**Design & Workflow**
+
+![Figma](https://img.shields.io/badge/-Figma-%23000000?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
+---
+
+## 𝗛𝗼𝘄 𝗜 𝗪𝗼𝗿𝗸
+
+1. Understand the problem before touching UI or code  
+2. Define system and design rules  
+3. Build reusable components, not one-off screens  
+4. Ship clean, readable, documented code  
+5. Optimize only after correctness
+
+This is how products scale — technically and visually.
 
 ---
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Mohammed Azizi's github stats](https://github-readme-stats.vercel.app/api?username=timo-ostora&show_icons=true&theme=dracula)
+![GitHub Stats](https://gitmystat.vercel.app/api?username=timo-ostora&theme=dark)
+
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=timo-ostora)
+
+![Profile Views](https://komarev.com/ghpvc/?username=timo-ostora)
