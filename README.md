@@ -1,9 +1,9 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙝𝙖𝙢𝙢𝙚𝙙 𝘼𝙯𝙞𝙯𝙞
 
-[![](https://img.shields.io/badge/-@mohammedazizi-%23181717?style=flat-square&logo=github)](https://github.com/mohammedazizi)
+[![](https://img.shields.io/badge/-@mohammedazizi-%23181717?style=flat-square&logo=github)](https://github.com/timo-ostora)
 [![](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=vercel)](https://your-portfolio-url.com)
 [![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/your-link)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Rabat%2C%20Morocco&url=https%3A%2F%2Fgithub.com)](https://github.com/mohammedazizi)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Rabat%2C%20Morocco&url=https%3A%2F%2Fgithub.com)](https://github.com/timo-ostora)
 
 𝑰 ❤️ 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑹𝒆𝒂𝒍 𝑾𝒆𝒃 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔
 
@@ -17,9 +17,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![Car Rental Platform](https://svg.bookmark.style/api?url=https://github.com/mohammedazizi/car-rental-platform&mode=light&style=horizontal)](https://github.com/mohammedazizi)
-[![Portfolio Platform](https://svg.bookmark.style/api?url=https://github.com/mohammedazizi/portfolio&mode=dark&style=horizontal)](https://github.com/mohammedazizi)
-[![Admin Dashboard](https://svg.bookmark.style/api?url=https://github.com/mohammedazizi/admin-dashboard&mode=light&style=horizontal)](https://github.com/mohammedazizi)
+[![Car Rental Platform](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/car-rental-platform&mode=light&style=horizontal)](https://github.com/timo-ostora)
+[![Portfolio Platform](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/portfolio&mode=dark&style=horizontal)](https://github.com/timo-ostora)
+[![Admin Dashboard](https://svg.bookmark.style/api?url=https://github.com/timo-ostora/admin-dashboard&mode=light&style=horizontal)](https://github.com/timo-ostora)
 
 ---
 
